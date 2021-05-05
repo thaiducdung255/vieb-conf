@@ -115,16 +115,16 @@ nmap <Space>j <action.toBottomSplitWindow>
 nmap <Space>h <action.toLeftSplitWindow>
 nmap <Space>l <action.toRightSplitWindow>
 
-nmap dq <:close 0>
-nmap dw <:close 1>
-nmap de <:close 2>
-nmap dr <:close 3>
-nmap dt <:close 4>
-nmap da <:close 5>
-nmap ds <:close 6>
-nmap dd <:close 7>
-nmap df <:close 8>
-nmap dg <:close 9>
+nmap ;;q <:close 0>
+nmap ;;w <:close 1>
+nmap ;;e <:close 2>
+nmap ;;r <:close 3>
+nmap ;;t <:close 4>
+nmap ;;a <:close 5>
+nmap ;;s <:close 6>
+nmap ;;d <:close 7>
+nmap ;;f <:close 8>
+nmap ;;g <:close 9>
 
 nmap ;q <:buffer 0>
 nmap ;w <:buffer 1>
